@@ -17,10 +17,10 @@
 
 <div align="center">
 
-| 🤖 AI/Agent | 🤖 机器人 | 📊 股票/投资 | 💻 编程 | 🔧 自动化 |
+| 💹 量化交易 | 🤖 AI/Agent | 🤖 机器人 | 📊 股票/投资 | 🔧 自动化 |
 |:---:|:---:|:---:|:---:|:---:|
-| OpenClaw | Agent Coding | 量化交易 | HTML/CSS/JS | 脚本开发 |
-| Agent开发 | 自动化 | 市场分析 | JavaScript | 效率工具 |
+| OKX API | OpenClaw | Agent Coding | 量化交易 | 脚本开发 |
+| 加密货币 | Agent开发 | 自动化 | 市场分析 | 效率工具 |
 
 </div>
 
@@ -42,6 +42,12 @@
 ## 🚀 代表项目
 
 <div align="left">
+
+### 💹 okx-crypto-trader
+**OKX加密货币交易机器人** - Python版自动交易系统  
+⭐ Stars: ![Stars](https://img.shields.io/github/stars/JAY5CXSDMY14/okx-crypto-trader?style=flat)  
+🔗 [GitHub](https://github.com/JAY5CXSDMY14/okx-crypto-trader)  
+**功能**: 现货/杠杆交易、自动监控、DCA定投、支撑/阻力位交易、风险管理
 
 ### 🤖 skill-creator
 **OpenClaw Skill生成器** - 自动生成标准化Skill结构  
@@ -66,7 +72,7 @@
 
 <div align="center">
 
-🛠️ Agent Coding工作流 | 🤖 AI Agent开发 | 📊 自动化监控工具 | 💹 投资分析
+💹 量化交易 | 🤖 Agent Coding工作流 | 🤖 AI Agent开发 | 📊 自动化监控工具
 
 </div>
 
